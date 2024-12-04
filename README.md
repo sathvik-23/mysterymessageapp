@@ -23,9 +23,3 @@ A full-stack **Mystery Message Application** built with **Next.js**. This projec
 - A database (PostgreSQL or MongoDB)
 - API keys for Resend and any AI service used
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/mystery-message-app.git
-   cd mystery-message-app
